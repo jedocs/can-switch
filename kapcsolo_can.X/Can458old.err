@@ -1,0 +1,2 @@
+Error[1034] C:\edocs\uC\ujprojects\kapcsolo_can\include\define.h 282 : previous definition of macro 'RXBUF' does not agree
+Error[1034] C:\edocs\uC\ujprojects\kapcsolo_can\include\define.h 284 : previous definition of macro 'TXBUF' does not agree
